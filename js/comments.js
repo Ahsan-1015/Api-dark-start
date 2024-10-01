@@ -16,4 +16,9 @@ const loadComments2 = async () => {
   } catch (error) {
     console.error(error);
   }
+
+  try {
+  } catch (error) {
+    console.error();
+  }
 };
